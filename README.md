@@ -1,7 +1,5 @@
 # Tic Tac Toe Game
 
-![Tic Tac Toe](URL_to_image_preview)
-
 ## Overview
 
 Welcome to the Tic Tac Toe game, built using Next.js and React.js! This classic game allows you to play against a friend in a simple yet engaging interface. The game keeps track of scores, and you can reset the game to play again.
