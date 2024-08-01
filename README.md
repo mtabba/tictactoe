@@ -15,4 +15,3 @@ Welcome to the Tic Tac Toe game, built using Next.js and React.js! This classic 
 ## Demo
 
 [Click here to play the game](https://tictactoefreenextjs.vercel.app/)
-
